@@ -1,4 +1,3 @@
-![MasterHead](https://media.giphy.com/media/axnFGXT6MzvgY/giphy.gif)
 <h1 align="center">Hi 👋🏻, I'm Meenakshi Arora</h1>
 <h3 align="center">Always Learning and Growing</h3>
 <img align="right" alt="gif" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
