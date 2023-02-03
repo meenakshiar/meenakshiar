@@ -9,6 +9,8 @@
 - 💬 Ask me about **HTML, CSS, JS, MERN**
 
 - 📫 How to reach me **meenakshiarora2707@gmail.com**
+- 
+- 👾 Projects available at **https://meenakshiar.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
