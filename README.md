@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **HTML, CSS, JS, MERN**
+- 📫 How to reach me **meenakshiarora2707@gmail.com**
 
 - 👾 Projects available at **https://meenakshiar.github.io/**
 
