@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenakshiar&label=Profile%20views&color=0e75b6&style=flat" alt="meenakshiar" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **NEM**
 
 - 💬 Ask me about **HTML, CSS, JS, MERN**
 - 📫 How to reach me **meenakshiarora2707@gmail.com**
