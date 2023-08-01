@@ -4,11 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenakshiar&label=Profile%20views&color=0e75b6&style=flat" alt="meenakshiar" /> </p>
 
-- 🌱 I’m currently learning **NEM**
-
-- 💬 Ask me about **HTML, CSS, JS, MERN**
+- 💬 Ask me about **MERN**
 - 📫 How to reach me **meenakshiarora2707@gmail.com**
-
 - 👾 Projects available at **https://meenakshiar.github.io/**
 
 <h3 align="left">Connect with me:</h3>
