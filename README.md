@@ -2,6 +2,8 @@
 <h3 align="center">Always Learning and Growing 🚀</h3>
 <img align="right" alt="gif" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
+
+
 - 👩‍💻 Ask me about **MERN**
 - 📫 How to reach me **meenakshiarora2707@gmail.com**
 - 👾 Projects available at **https://meenakshiar.github.io/**
